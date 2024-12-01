@@ -1,3 +1,8 @@
 Processing2.ipynb
 *.csv
 *.pkl
+README.md
+requirement.txt
+Flask.py
+env
+.ipynb_checkpoints
