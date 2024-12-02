@@ -17,7 +17,7 @@ def predict():
         'winner': prediction[0],
         'probability': {
             'white': probability[0][1],  # Assuming index 1 is for white winning
-            'black': probability[0][0]    # Assuming index 0 is for black winning
+               # Assuming index 0 is for black winning
         }
     })
 
