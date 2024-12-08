@@ -3,6 +3,5 @@ Processing2.ipynb
 *.pkl
 README.md
 requirement.txt
-Flask.py
 env
 .ipynb_checkpoints
